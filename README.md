@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hello, I'm Samy!
 
-<!--
-**SamyBoudjema/SamyBoudjema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a **Full Stack Developer** passionate about **Cybersecurity and Web Development**. I love building cool projects and sharing knowledge with the community!
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Advanced Security Practices & DevSecOps**
+- 💼 Working on **a Secure Web Application Project**
+- 💬 Ask me about **Web Development, Cybersecurity, and Backend Optimization**
+- 📫 Reach me at **samy.bdm16@gmail.com**
+- ⚡ Fun fact: **I love breaking things to make them more secure!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samydev)
+
+---
+
+⭐️ *Feel free to check out my repositories and contribute!*
