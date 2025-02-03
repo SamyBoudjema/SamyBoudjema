@@ -23,16 +23,16 @@ I'm a **Full Stack Developer** passionate about **Cybersecurity and Web Developm
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samydev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-boudjema-814076218/)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Samy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=radical)
+![Samy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamyBoudjema&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyBoudjema&layout=compact&theme=radical)
 
-![snake gif](https://github.com/${{ github.repository_owner }}/${{ github.repository_owner }}/blob/output/snake.svg)
+![snake gif](https://github.com/SamyBoudjema/SamyBoudjema/blob/output/snake.svg)
 
 ---
 
