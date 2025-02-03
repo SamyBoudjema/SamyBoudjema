@@ -28,3 +28,5 @@ I'm a **Full Stack Developer** passionate about **Cybersecurity and Web Developm
 ---
 
 ⭐️ *Feel free to check out my repositories and contribute!*
+
+![snake gif](https://github.com/SamyBoudjema/SamyBoudjema/blob/output/github-contribution-grid-snake.svg)
