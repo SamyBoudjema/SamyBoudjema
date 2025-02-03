@@ -29,7 +29,6 @@ I'm a **Full Stack Developer** passionate about **Cybersecurity and Web Developm
 
 ### 📊 GitHub Stats
 
-![Samy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamyBoudjema&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyBoudjema&layout=compact&theme=radical)
 
 ![snake gif](https://github.com/SamyBoudjema/SamyBoudjema/blob/output/snake.svg)
