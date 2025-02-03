@@ -29,12 +29,11 @@ I'm a **Full Stack Developer** passionate about **Cybersecurity and Web Developm
 
 ### 📊 GitHub Stats
 
-![Samy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samydev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samydev&layout=compact&theme=radical)
+![Samy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=radical)
 
-![snake gif](https://github.com/SamyBoudjema/SamyBoudjema/blob/output/snake.svg)
+![snake gif](https://github.com/${{ github.repository_owner }}/${{ github.repository_owner }}/blob/output/snake.svg)
 
 ---
 
 ⭐️ *Feel free to check out my repositories and contribute!*
-
