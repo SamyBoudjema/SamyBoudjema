@@ -31,8 +31,6 @@ I'm a **Full Stack Developer** passionate about **Cybersecurity and Web Developm
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyBoudjema&layout=compact&theme=radical)
 
-![snake gif](https://github.com/SamyBoudjema/SamyBoudjema/blob/output/snake.svg)
-
 ---
 
 ⭐️ *Feel free to check out my repositories and contribute!*
